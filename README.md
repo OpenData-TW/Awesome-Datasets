@@ -9,7 +9,7 @@ Public access Datasets and Data Portal
 - [文化部文化資料開放服務網](https://opendata.culture.tw/)
 - [交通部中央氣象局](http://opendata.cwb.gov.tw/index)
 ### 地方政府
-- [台北市](https://data.taipei/index) [舊平台](http://data.taipei/index)
+- [台北市](https://data.taipei/index) | [舊平台](http://data.taipei/index)
 - [新北市](http://data.ntpc.gov.tw/)
 - [桃園市](https://data.tycg.gov.tw/)
 - [台中市](http://opendata.taichung.gov.tw/)
@@ -22,9 +22,9 @@ Public access Datasets and Data Portal
 - 苗栗縣
 - [南投縣](http://data.nantou.gov.tw/)
 - 彰化縣
-- [雲林縣](http://www4.yunlin.gov.tw/planning/home.jsp?mserno=201603280003&serno=201603170001&menudata=planningmenu&contlink=content/20160317135147.jsp)
+- [雲林縣](http://www4.yunlin.gov.tw/planning/home.jsp?mserno=201603280003&serno=201603170001&menudata=planningmenu&contlink=content/20160317135147.jsp), 機關網站
 - 嘉義縣
-- [屏東縣](https://www.pthg.gov.tw/Cus_OpenData_Default1.aspx?n=481C53E05C1D2D97&sms=354B0B57F2762613)
+- [屏東縣](https://www.pthg.gov.tw/Cus_OpenData_Default1.aspx?n=481C53E05C1D2D97&sms=354B0B57F2762613), 機關網站
 - [宜蘭縣](https://opendata.e-land.gov.tw/)
 - 花蓮縣
 - [台東縣](http://www.taitung.gov.tw/opendata/Default.aspx)
